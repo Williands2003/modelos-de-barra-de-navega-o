@@ -17,11 +17,11 @@ O objetivo principal deste repositório é oferecer uma variedade de modelos de 
 
 O repositório está organizado em diferentes diretórios, cada um representando um nível de complexidade ou um estilo específico de barra de navegação. Aqui está uma visão geral da estrutura do repositório:
 
-1. **Basic:** Este diretório contém modelos simples de barra de navegação, adequados para iniciantes e para demonstrar conceitos fundamentais de design de navegação.
+1. **Basico:** Este diretório contém modelos simples de barra de navegação, adequados para iniciantes e para demonstrar conceitos fundamentais de design de navegação.
 
-2. **Intermediate:** Aqui, você encontrará modelos de barra de navegação com um pouco mais de complexidade, incorporando diferentes estilos visuais e técnicas de layout.
+2. **Intermediario:** Aqui, você encontrará modelos de barra de navegação com um pouco mais de complexidade, incorporando diferentes estilos visuais e técnicas de layout.
 
-3. **Advanced:** Neste diretório, estão os modelos mais avançados de barra de navegação, que podem incluir efeitos interativos, animações, responsividade avançada e outras características sofisticadas.
+3. **Avançado:** Neste diretório, estão os modelos mais avançados de barra de navegação, que podem incluir efeitos interativos, animações, responsividade avançada e outras características sofisticadas.
 
 <hr>
 
@@ -37,7 +37,7 @@ Todos os modelos de barra de navegação neste repositório são disponibilizado
 
 Agradecemos a todos os contribuidores por tornarem este repositório uma fonte valiosa de inspiração e aprendizado. Esperamos que este recurso seja útil para a comunidade de desenvolvedores e designers.
 
-**Nota:**
+**Nota:** ⚠⚠⚠
 
 Este repositório pode estar em estágios iniciais de desenvolvimento e, portanto, pode ter um conteúdo limitado dependendo da época em que você está visualizando. Continuaremos adicionando mais modelos e recursos conforme o tempo passa.
 
